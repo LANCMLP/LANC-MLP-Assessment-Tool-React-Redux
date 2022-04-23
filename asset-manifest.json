@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LANC-MLP-Assessment-Tool-React-Redux/static/css/main.c7a0a24a.css",
+    "main.js": "/LANC-MLP-Assessment-Tool-React-Redux/static/js/main.907ce1a1.js",
+    "static/js/787.12857547.chunk.js": "/LANC-MLP-Assessment-Tool-React-Redux/static/js/787.12857547.chunk.js",
+    "index.html": "/LANC-MLP-Assessment-Tool-React-Redux/index.html",
+    "main.c7a0a24a.css.map": "/LANC-MLP-Assessment-Tool-React-Redux/static/css/main.c7a0a24a.css.map",
+    "main.907ce1a1.js.map": "/LANC-MLP-Assessment-Tool-React-Redux/static/js/main.907ce1a1.js.map",
+    "787.12857547.chunk.js.map": "/LANC-MLP-Assessment-Tool-React-Redux/static/js/787.12857547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7a0a24a.css",
+    "static/js/main.907ce1a1.js"
+  ]
+}
