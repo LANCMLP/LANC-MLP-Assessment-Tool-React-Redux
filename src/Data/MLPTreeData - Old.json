@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Benefits",
+    "children": [
+      {
+        "title": "Food Stamps",
+        "children": [
+          {
+            "title": "Do they currently have FNS?",
+            "children": [
+              {
+                "title": "Yes",
+                "children": [
+                  {
+                    "title": "Was termination w/in 90 days?",
+                    "children": [{ "title": "Yes" }, { "title": "No" }]
+                  }
+                ]
+              },
+              { "title": "No" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Health Insurance",
+        "children": [
+          {
+            "title": "Which program is at issue?",
+            "children": [
+              { "title": "Medicare" },
+              { "title": "Medicaid" },
+              { "title": "ACA" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Housing",
+    "children": [
+      { "title": "Eviction" },
+      { "title": "Conditions" },
+      { "title": "Subsidy" }
+    ]
+  },
+  {
+    "title": "Family",
+    "children": [{ "title": "IPV" }, { "title": "Child Support" }]
+  }
+]

@@ -1,0 +1,11 @@
+.mySelect {
+  max-width: 75%;
+  margin: auto;
+  font-weight: bold;
+}
+
+.resultsBox {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}

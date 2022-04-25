@@ -1,23 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { Assessment } from "./features/assessment";
+import MyProgressBar from "./features/Progressbar";
+import Header from "./features/Header";
+import ResultsBox from "./features/ResultsBox";
+import { useSelector } from "react-redux";
+import UndoRedo from "./features/UndoRedo";
+import React from "react";
+import ConsultBox from "./features/ConsultDirectory";
 
 function App() {
+  const displayResults = useSelector((state) => state.assessment.resultsCSS);
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <MyProgressBar />
+      <br></br>
+      <Assessment />
+      <br></br>
+      <UndoRedo />
+      <br></br>
+      <ResultsBox style={displayResults} />
+      <ConsultBox />
     </div>
   );
 }

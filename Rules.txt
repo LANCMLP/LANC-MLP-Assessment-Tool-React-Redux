@@ -1,0 +1,5 @@
+1. All of the nodes of the decision tree need to end in a coded "result."
+2. Every selectable issue must have branch. The tree can't end right after "select an issue"
+
+
+Results formated in an array: [block1, block2, block3, block4]

@@ -1,0 +1,915 @@
+[
+  {
+    "title": "Benefits",
+    "children": [
+      {
+        "title": "Health Insurance and Medicaid",
+        "children": [
+          {
+            "title": "Is the patient or family member currently insured?",
+            "children": [
+              {
+                "title": "Yes",
+                "children": [
+                  {
+                    "title": "What insurance program does the issue or question involve?",
+                    "children": [
+                      {
+                        "title": "Medicaid",
+                        "children": [
+                          {
+                            "title": "Does the patient currently have Medicaid?",
+                            "children": [
+                              {
+                                "title": "Yes",
+                                "children": [
+                                  {
+                                    "title": "Which of the following situations apply?",
+                                    "children": [
+                                      {
+                                        "title": "Medicaid Service Denial in Last 30 Days",
+                                        "children": [
+                                          {
+                                            "title": "[\"Make a referral\", \"help patient\", \"lanc is good\", \"links\"]"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "title": "Reduction in Coverage Last 60 Days",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: Make a referral to MLP."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "title": "Denied Change in Managed Care Plan in Last 30 Days",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: Make a referral to MLP."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "title": "Any of the Above, but Over 30/60 Days",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: Patient has missed their appeal period. Link to resources."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "title": "Question About Medicaid Long Term Care",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: Make a referral to MLP."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "title": "Issue Accessing Benefits for Adopted Children",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: Make a referral to MLP."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "No",
+                                "children": [
+                                  {
+                                    "title": "Has the patient attempted to apply or has been recently terminated?",
+                                    "children": [
+                                      {
+                                        "title": "They tried to apply and were discouraged from applying by DSS.",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: Make a referral to MLP."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "title": "They applied and have not received an answer.",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: Patients should get an answer within 45 days if their application does not involve a disability determination, and 90 days if their application requires a disability determination. Instruct the patient that they can reach out to their local DSS office for an update. If there is a problem, refer to MLP."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "title": "They applied and were denied.",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: \u000bIf the denial was within the last 60 days, make a referral to MLP."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "title": "They have been recently terminated.",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: \u000bIf the termination occurred in the past 60 days, make a referral to MLP."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "title": "No, they have not applied.",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: \u000bAdvise the patient to apply at their local DSS or online. Follow up on the result if possible and refer if necessary."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "title": "No, they have not applied and are worried about immigrant eligibility or public charge.",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: \u000bMake a referral to MLP. Legal Aid can advise the family on eligibility for programs and help explain public charge."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Medicare",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000bMake a referral. LANC can assist with the following Medicare issues. Blurb about SLP, etc. "
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Private Insurance - ACA Coverage",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000bMake a referral, Legal Aid can connect patient to a navigator to assist."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Private Insurance - Non-ACA Coverage",
+                        "children": [
+                          {
+                            "title": "Your Action: If this issue involves medical debt, please refer to MLP. For other issues, please conduct a de-identified consultation with your MLP point of contact to see if we can assist with this insurance issue. You can access the directory here."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Other",
+                        "children": [{ "title": "Your Action: Consult. " }]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "No",
+                "children": [
+                  {
+                    "title": "Your Action: If the patient could be Medicaid eligible, instruct them to apply with their local DSS office. If they are not Medicaid eligible and they have legal status (i.e., citizen or permanent resident), Legal Aid may be able to connect them to a navigator for ACA coverage. In this case, make a referral."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Disability (SSI/SSDI)",
+        "children": [
+          {
+            "title": "Does the patient currently have SSI or SSDI?",
+            "children": [
+              {
+                "title": "Yes",
+                "children": [
+                  {
+                    "title": "Did they have their benefits terminated, reduced, or were told they have an overpayment in the last 60 days?",
+                    "children": [
+                      {
+                        "title": "Termination",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000bRefer the patient to LANC's MLP. Advise them that MLP will be calling, and that they should have their Social Security documents ready. "
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Reduction",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000bRefer the patient to LANC's MLP. Advise them that MLP will be calling, and that they should have their Social Security documents ready. "
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Overpayment",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000bRefer the patient to LANC's MLP. Advise them that MLP will be calling, and that they should have their Social Security documents ready. "
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "No",
+                "children": [
+                  {
+                    "title": "Have they applied?",
+                    "children": [
+                      {
+                        "title": "Yes",
+                        "children": [
+                          {
+                            "title": "What happened to the application?",
+                            "children": [
+                              {
+                                "title": "Waiting on a Response",
+                                "children": [
+                                  {
+                                    "title": "Your Action: Disability determinations can take up to five months. Follow up with your patient about the result and reassess after Social Security makes a decision. Direct patient to contact SSA for a status update and to SSA.gov for more info. Remind them that it is important to appeal within 60 days if they are denied."
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "Denied in the Past 60 Days",
+                                "children": [
+                                  {
+                                    "title": "Your Action: Send a referral to Legal Aid through MLP. Advise the patient that they will be getting a call from MLP, and to have their Social Security documents ready."
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "Denied Over 60 Days",
+                                "children": [
+                                  {
+                                    "title": "Your Action: The patient has missed their appeal period. If it's within 90 days, instruct them to seek a waiver from SSA to maintain their appeal. Otherwise, instruct them to reapply if they would still like to pursue Social Security disability benefits. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "No",
+                        "children": [
+                          {
+                            "title": "Your Action: Direct the patient to apply with their local SSA office. See SSA.gov for more information. "
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Food Insecurity",
+        "children": [
+          {
+            "title": "Does the patient have FNS or WIC?",
+            "children": [
+              {
+                "title": "Yes",
+                "children": [
+                  {
+                    "title": "What issue are they having?",
+                    "children": [
+                      {
+                        "title": "Termination",
+                        "children": [
+                          {
+                            "title": "Your Action: Make a eferral. Click here to access thre referral system through EPIC, launch NCCARE360, etc. What Legal Aid Can Do: Advise on patient's right to benefits, negotiate with DSS case workers, represent at appeal hearings. \u000b\u000bResources:\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Reduction",
+                        "children": [
+                          {
+                            "title": "Your Action: Make a eferral. Click here to access thre referral system through EPIC, launch NCCARE360, etc. What Legal Aid Can Do: Advise on patient's right to benefits, negotiate with DSS case workers, represent at appeal hearings. \u000b\u000bResources:\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Overpayment",
+                        "children": [
+                          {
+                            "title": "Your Action: Make a eferral. Click here to access thre referral system through EPIC, launch NCCARE360, etc. What Legal Aid Can Do: Advise on patient's right to benefits, negotiate with DSS case workers, represent at appeal hearings. \u000b\u000bResources:\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Other",
+                        "children": [
+                          {
+                            "title": "Your Action: Consult. You can access the directory here. \u000b\u000bResources:\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "No",
+                "children": [
+                  {
+                    "title": "Have they tried to apply, or were terminated within last 90 days?",
+                    "children": [
+                      {
+                        "title": "Have applied",
+                        "children": [
+                          {
+                            "title": "What happened to the application?",
+                            "children": [
+                              {
+                                "title": "They are still waiting",
+                                "children": [
+                                  {
+                                    "title": "Your Action: Follow up with the patient, and make a referral if denied. Inform patient that they have 90 days to appeal any negative decision. \u000b\u000bResources:\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "They were discouraged by a DSS rep from applying",
+                                "children": [
+                                  {
+                                    "title": "Your Action: Make a referral. Click here to access the referral system through EPIC, launch NCCARE360, etc. \u000b\u000bWhat Legal Aid Can Do: \u000bAdvise on patient's right to benefits, negotiate with DSS case workers, represent at appeal hearings. Resources: If the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "They were denied",
+                                "children": [
+                                  {
+                                    "title": "Was the denial or termination within the last 90 days?",
+                                    "children": [
+                                      {
+                                        "title": "Yes",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: \u000bMake a referral. Click here to access the referral system through EPIC, launch NCCARE360, etc. \u000b\u000bWhat Legal Aid Can Do: \u000bAdvise on patient's right to benefits, negotiate with DSS case workers, represent at appeal hearings. \u000b\u000bResources:\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "title": "No",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: \u000bThe patient has missed their appeal period. Instruct them to reapply. \u000b\u000bResources: \u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Have not applied",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000bLegal Aid does not assist with initial applications. Make a referral if they were discouraged or need to know about their rights to benefits. Otherwise, refer them to a social worker, DSS, or another resource. They can apply for food stamps at NCFAST. "
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Terminated within 90 days",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000bMake a referral. Click here to access the referral system through EPIC, launch NCCARE360, etc. \u000b\u000bResources:\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Terminated over 90 days",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000bThe patient has missed their appeal period. Instruct them to reapply. They can contact their local DSS or apply online here. \u000b\u000bResources: \u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              { "title": "Had it but lost it" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "WorkFirst",
+        "children": [
+          {
+            "title": "Does the patient currently have WorkFirst?",
+            "children": [
+              {
+                "title": "Yes",
+                "children": [
+                  {
+                    "title": "What issue are they having?",
+                    "children": [
+                      {
+                        "title": "Termination",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000b\u000bMake a referral. Click here to access the referral system through EPIC, launch NCCARE360, etc. \u000b\u000bWhat Legal Aid Can Do: \u000b\u000bAdvise on patient's right to benefits, negotiate with DSS case workers, represent at appeal hearings. \u000b\u000bResources:\u000b\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Reduction",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000b\u000bMake a referral. Click here to access the referral system through EPIC, launch NCCARE360, etc. \u000b\u000bWhat Legal Aid Can Do: \u000b\u000bAdvise on patient's right to benefits, negotiate with DSS case workers, represent at appeal hearings. \u000b\u000bResources:\u000b\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Overpayment",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000b\u000bMake a referral. Click here to access the referral system through EPIC, launch NCCARE360, etc. \u000b\u000bWhat Legal Aid Can Do: \u000b\u000bAdvise on patient's right to benefits, negotiate with DSS case workers, represent at appeal hearings. \u000b\u000bResources:\u000b\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Other",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000b\u000bConsult. You can access the directory here. \u000b\u000bResources:\u000b\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "No",
+                "children": [
+                  {
+                    "title": "Have they tried to apply, or were terminated within last 90 days?",
+                    "children": [
+                      {
+                        "title": "Have applied",
+                        "children": [
+                          {
+                            "title": "What happened to the application?",
+                            "children": [
+                              {
+                                "title": "They are still waiting",
+                                "children": [
+                                  {
+                                    "title": "Your Action: \u000b\u000bFollow up with the patient, and make a referral if denied. Inform patient that they have 90 days to appeal any negative decision. \u000b\u000bResources:\u000b\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "They were discouraged by a DSS rep from applying",
+                                "children": [
+                                  {
+                                    "title": "Your Action: \u000b\u000bMake a referral. Click here to access the referral system through EPIC, launch NCCARE360, etc. \u000b\u000bWhat Legal Aid Can Do: \u000b\u000bAdvise on patient's right to benefits, negotiate with DSS case workers, represent at appeal hearings. \u000b\u000bResources:\u000b\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                                  }
+                                ]
+                              },
+                              {
+                                "title": "They were denied",
+                                "children": [
+                                  {
+                                    "title": "Was the denial or termination within the last 90 days?",
+                                    "children": [
+                                      {
+                                        "title": "Yes",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: \u000b\u000bMake a referral. Click here to access the referral system through EPIC, launch NCCARE360, etc. \u000b\u000bWhat Legal Aid Can Do: \u000b\u000bAdvise on patient's right to benefits, negotiate with DSS case workers, represent at appeal hearings. \u000b\u000bResources:\u000b\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "title": "No",
+                                        "children": [
+                                          {
+                                            "title": "Your Action: \u000b\u000bThe patient has missed their appeal period. Instruct them to reapply. \u000b\u000bResources: \u000b\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Have not applied",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000b\u000bLegal Aid does not assist with initial applications. Make a referral if they were discouraged or need to know about their rights to benefits. Otherwise, refer them to a social worker, DSS, or another resource. They can apply for food stamps at NCFAST. \u000b\u000bResources:\u000b\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Terminated within 90 days",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000b\u000bMake a referral. Click here to access the referral system through EPIC, launch NCCARE360, etc. \u000b\u000bResources:\u000b\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Terminated over 90 days",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000b\u000bThe patient has missed their appeal period. Instruct them to reapply. They can contact their local DSS or apply online here. \u000b\u000bResources: \u000b\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Had it but lost it",
+                "children": [
+                  {
+                    "title": "Was the denial or termination within the last 90 days?",
+                    "children": [
+                      {
+                        "title": "Yes",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000b\u000bMake a referral. Click here to access the referral system through EPIC, launch NCCARE360, etc. \u000b\u000bWhat Legal Aid Can Do: \u000b\u000bAdvise on patient's right to benefits, negotiate with DSS case workers, represent at appeal hearings. \u000b\u000bResources:\u000b\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "No",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000b\u000bThe patient has missed their appeal period. Instruct them to reapply. \u000b\u000bResources: \u000b\u000bIf the patient has an immediate need for food, click here to search for a food bank with NC 211."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Housing",
+    "children": [
+      {
+        "title": "Eviction",
+        "children": [
+          {
+            "title": "Has the patient received court papers/notice to vacate? Or were they threatened with or fear imminent eviction?",
+            "children": [
+              { "title": "They've received papers" },
+              { "title": "Threat/fear  of eviction" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Conditions",
+        "children": [
+          {
+            "title": "Has the patient/family asked the landlord to make repairs?",
+            "children": [
+              {
+                "title": "Yes, and the landlord has not taken action.",
+                "children": [
+                  { "title": "Your Action: \u000bMake a referral. " }
+                ]
+              },
+              {
+                "title": "No.",
+                "children": [
+                  {
+                    "title": "Your Action: \u000bInstruct the patient to contact their landlord. Inform the patient of how the conditions may negatively impact their health. Follow-up with patient and refer if issue persists. "
+                  }
+                ]
+              },
+              {
+                "title": "No, patient fears retaliation from the landlord.",
+                "children": [
+                  { "title": "Your Action: \u000bMake a referral. " }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Loss of Housing Subsidy or Voucher",
+        "children": [
+          {
+            "title": "Which program was providng the subsidy?",
+            "children": [
+              {
+                "title": "Section 8",
+                "children": [
+                  {
+                    "title": "How long ago was the termination and has the patient appealed?",
+                    "children": [
+                      {
+                        "title": "Within 30 Days",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000bMake a referral. Advise the patient to have their documents ready for the attorney, such as their lease and termination notice."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "After 30 Days/Patient Has Appealed",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000bPatient has missed their appeal period. Advise them to seek housing elsewhere, links to resources."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "After 30 Days/Patient Has Not Appealed",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000bMake a referral. Advise the patient to have their documents ready for the attorney, such as their lease and termination notice."
+                          }
+                        ]
+                      },
+                      {
+                        "title": "I don't know",
+                        "children": [
+                          {
+                            "title": "Your Action: \u000bConsult. You can access the directory here."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Low Income Housing Tax Credit",
+                "children": [
+                  { "title": "Your Action: \u000bMake a referral. " }
+                ]
+              },
+              {
+                "title": "Transition to Independent Living",
+                "children": [
+                  { "title": "Your Action: \u000bMake a referral. " }
+                ]
+              },
+              {
+                "title": "Other",
+                "children": [
+                  {
+                    "title": "Your Action: \u000bConsult. You can access the directory here."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Other Housing Issue",
+        "children": [
+          {
+            "title": "Which of the following is the problem?",
+            "children": [
+              {
+                "title": "Mortgage Foreclosure",
+                "children": [
+                  { "title": "Your Action: \u000bMake a referral. " }
+                ]
+              },
+              {
+                "title": "Disaster Relief",
+                "children": [
+                  { "title": "Your Action: \u000bMake a referral. " }
+                ]
+              },
+              {
+                "title": "Housing Discrimination",
+                "children": [
+                  { "title": "Your Action: \u000bMake a referral. " }
+                ]
+              },
+              {
+                "title": "Accommodations for Disability",
+                "children": [
+                  { "title": "Your Action: \u000bMake a referral. " }
+                ]
+              },
+              {
+                "title": "None of the Above",
+                "children": [
+                  {
+                    "title": "Your Action: \u000bConsult. You can access the directory here."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Consumer",
+    "children": [
+      {
+        "title": "Debt Collection",
+        "children": [
+          {
+            "title": "Is the patient being harassed by creditors, unable to pay their debts, or both?",
+            "children": [
+              {
+                "title": "Harrassed by creditors",
+                "children": [
+                  {
+                    "title": "Your Action: \u000bMake a referral. LANC can help keep creditors from calling/harrassing patient. \u000b\u000bResources:\u000bClick here to browse LANC's self-help consumer law resources."
+                  }
+                ]
+              },
+              {
+                "title": "Unable to pay debts",
+                "children": [
+                  {
+                    "title": "Your Action: \u000bMake a referral. LANC can advise patient on their rights and advise them on issues like bankruptcy. LANC can assist with pursuing bankruptcy if it's their client's desire.\u000b\u000bResources:\u000bClick here to browse LANC's self-help consumer law resources."
+                  }
+                ]
+              },
+              {
+                "title": "Both",
+                "children": [
+                  {
+                    "title": "Your Action: \u000bMake a referral. LANC can help stop creditors from calling the patient.LANC can advise patient on their rights and advise them on issues like bankruptcy. LANC can assist with pursuing bankruptcy if it's their client's desire.\u000b\u000bResources:\u000bClick here to browse LANC's self-help consumer law resources."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Individual Rights",
+    "children": [
+      {
+        "title": "Wills & Powers of Attorney",
+        "children": [
+          {
+            "title": "Your Action: \u000bMake a referral, explanation of our work on this issue, and links to resources. "
+          }
+        ]
+      },
+      {
+        "title": "Immigration",
+        "children": [
+          {
+            "title": "Your Action: \u000bMake a referral, explanation of our work on this issue, and links to resources. "
+          }
+        ]
+      },
+      {
+        "title": "Expunction",
+        "children": [
+          {
+            "title": "Your Action: \u000bMake a referral, explanation of our work on this issue, and links to resources. "
+          }
+        ]
+      },
+      {
+        "title": "Driver's License Restoration",
+        "children": [
+          {
+            "title": "Your Action: \u000bMake a referral, explanation of our work on this issue, and links to resources. "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Family",
+    "children": [
+      {
+        "title": "Interpersonal Violence",
+        "children": [
+          {
+            "title": "Which of the following applies?",
+            "children": [
+              {
+                "title": "The patient knows that they want a protective order against a domestic abuser."
+              },
+              {
+                "title": "The patient needs information about their rights, such as the implications of a DV order."
+              },
+              {
+                "title": "The patient has an issue with a non-relative abuser who does not live with them (i.e., a stalker, harrassment)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Custody",
+        "children": [
+          {
+            "title": "Your Action: \u000bLegal Aid does not have the capacity to assist with custody issues, unless it is necessary to resolve some other issue that we assist with. For example, domestic violence. Insert self-help links here."
+          }
+        ]
+      },
+      {
+        "title": "Child Support",
+        "children": [
+          {
+            "title": "Your Action: \u000bLegal Aid does not have the capacity to assist with custody issues, unless it is necessary to resolve some other issue that we assist with. For example, domestic violence. Insert self-help links here."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Education",
+    "children": [
+      {
+        "title": "Access to Special Education Services",
+        "children": [
+          {
+            "title": "Your Action: \u000b\u000bMake a referral, explanation of our work on this issue, and links to resources."
+          }
+        ]
+      },
+      {
+        "title": "Suspension/Expulsion",
+        "children": [
+          {
+            "title": "Your Action: \u000b\u000bMake a referral, explanation of our work on this issue, and links to resources."
+          }
+        ]
+      },
+      {
+        "title": "Bullying/Harassment",
+        "children": [
+          {
+            "title": "Your Action: \u000b\u000bMake a referral, explanation of our work on this issue, and links to resources."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Employment",
+    "children": [
+      {
+        "title": "Unemployment Insurance",
+        "children": [
+          {
+            "title": "Your Action: \u000b\u000bMake a referral, explanation of our work on this issue, and links to resources."
+          }
+        ]
+      },
+      {
+        "title": "Worker's Compensation",
+        "children": [
+          {
+            "title": "Your Action: \u000b\u000bMake a referral, explanation of our work on this issue, and links to resources."
+          }
+        ]
+      }
+    ]
+  }
+]
